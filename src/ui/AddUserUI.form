@@ -1,0 +1,334 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Form version="1.3" maxVersion="1.9" type="org.netbeans.modules.form.forminfo.JFrameFormInfo">
+  <NonVisualComponents>
+    <Component class="javax.swing.ButtonGroup" name="buttonGroup1">
+    </Component>
+  </NonVisualComponents>
+  <Properties>
+    <Property name="defaultCloseOperation" type="int" value="3"/>
+  </Properties>
+  <SyntheticProperties>
+    <SyntheticProperty name="formSizePolicy" type="int" value="1"/>
+    <SyntheticProperty name="generateCenter" type="boolean" value="false"/>
+  </SyntheticProperties>
+  <AuxValues>
+    <AuxValue name="FormSettings_autoResourcing" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_autoSetComponentName" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_generateFQN" type="java.lang.Boolean" value="true"/>
+    <AuxValue name="FormSettings_generateMnemonicsCode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_i18nAutoMode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_layoutCodeTarget" type="java.lang.Integer" value="1"/>
+    <AuxValue name="FormSettings_listenerGenerationStyle" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_variablesLocal" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_variablesModifier" type="java.lang.Integer" value="2"/>
+  </AuxValues>
+
+  <Layout>
+    <DimensionLayout dim="0">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Component id="jPanel1" alignment="0" max="32767" attributes="0"/>
+      </Group>
+    </DimensionLayout>
+    <DimensionLayout dim="1">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Component id="jPanel1" alignment="0" max="32767" attributes="0"/>
+      </Group>
+    </DimensionLayout>
+  </Layout>
+  <SubComponents>
+    <Container class="javax.swing.JPanel" name="jPanel1">
+      <Properties>
+        <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+          <Color blue="66" green="66" red="0" type="rgb"/>
+        </Property>
+      </Properties>
+
+      <Layout>
+        <DimensionLayout dim="0">
+          <Group type="103" groupAlignment="0" attributes="0">
+              <Group type="102" attributes="0">
+                  <Group type="103" groupAlignment="0" attributes="0">
+                      <Group type="102" attributes="0">
+                          <EmptySpace max="-2" attributes="0"/>
+                          <Component id="jLabel1" max="32767" attributes="0"/>
+                      </Group>
+                      <Group type="102" alignment="0" attributes="0">
+                          <EmptySpace min="-2" pref="100" max="-2" attributes="0"/>
+                          <Group type="103" groupAlignment="0" attributes="0">
+                              <Component id="jLabel3" min="-2" max="-2" attributes="0"/>
+                              <Component id="jLabel2" min="-2" max="-2" attributes="0"/>
+                              <Component id="jTextField1" min="-2" pref="260" max="-2" attributes="0"/>
+                              <Component id="jLabel4" alignment="0" min="-2" max="-2" attributes="0"/>
+                              <Component id="jLabel5" alignment="0" min="-2" max="-2" attributes="0"/>
+                              <Group type="103" alignment="0" groupAlignment="1" attributes="0">
+                                  <Component id="jComboBox1" alignment="1" min="-2" pref="253" max="-2" attributes="0"/>
+                                  <Group type="102" alignment="0" attributes="0">
+                                      <EmptySpace min="-2" pref="9" max="-2" attributes="0"/>
+                                      <Group type="103" groupAlignment="1" attributes="0">
+                                          <Group type="102" alignment="0" attributes="0">
+                                              <Component id="jRadioButton1" min="-2" max="-2" attributes="0"/>
+                                              <EmptySpace type="separate" max="-2" attributes="0"/>
+                                              <Component id="jRadioButton2" min="-2" max="-2" attributes="0"/>
+                                          </Group>
+                                          <Group type="102" alignment="1" attributes="0">
+                                              <Component id="jCheckBox1" min="-2" max="-2" attributes="0"/>
+                                              <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                                              <Component id="jCheckBox2" min="-2" max="-2" attributes="0"/>
+                                          </Group>
+                                      </Group>
+                                      <EmptySpace type="separate" max="-2" attributes="0"/>
+                                      <Group type="103" groupAlignment="0" attributes="0">
+                                          <Component id="jCheckBox3" min="-2" max="-2" attributes="0"/>
+                                          <Component id="jRadioButton3" alignment="0" min="-2" max="-2" attributes="0"/>
+                                      </Group>
+                                  </Group>
+                              </Group>
+                          </Group>
+                          <EmptySpace min="0" pref="94" max="32767" attributes="0"/>
+                      </Group>
+                  </Group>
+                  <EmptySpace max="-2" attributes="0"/>
+              </Group>
+              <Group type="102" alignment="1" attributes="0">
+                  <EmptySpace min="0" pref="0" max="32767" attributes="0"/>
+                  <Component id="jButton1" min="-2" pref="127" max="-2" attributes="0"/>
+                  <EmptySpace min="-2" pref="165" max="-2" attributes="0"/>
+              </Group>
+          </Group>
+        </DimensionLayout>
+        <DimensionLayout dim="1">
+          <Group type="103" groupAlignment="0" attributes="0">
+              <Group type="102" alignment="0" attributes="0">
+                  <EmptySpace max="-2" attributes="0"/>
+                  <Component id="jLabel1" min="-2" pref="51" max="-2" attributes="0"/>
+                  <EmptySpace type="separate" max="-2" attributes="0"/>
+                  <Component id="jLabel2" min="-2" max="-2" attributes="0"/>
+                  <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                  <Component id="jTextField1" min="-2" max="-2" attributes="0"/>
+                  <EmptySpace type="separate" max="-2" attributes="0"/>
+                  <Component id="jLabel3" min="-2" max="-2" attributes="0"/>
+                  <EmptySpace type="separate" max="-2" attributes="0"/>
+                  <Group type="103" groupAlignment="3" attributes="0">
+                      <Component id="jRadioButton1" alignment="3" min="-2" max="-2" attributes="0"/>
+                      <Component id="jRadioButton2" alignment="3" min="-2" max="-2" attributes="0"/>
+                      <Component id="jRadioButton3" alignment="3" min="-2" max="-2" attributes="0"/>
+                  </Group>
+                  <EmptySpace max="-2" attributes="0"/>
+                  <Component id="jLabel4" min="-2" max="-2" attributes="0"/>
+                  <EmptySpace min="-2" pref="10" max="-2" attributes="0"/>
+                  <Group type="103" groupAlignment="3" attributes="0">
+                      <Component id="jCheckBox3" alignment="3" min="-2" max="-2" attributes="0"/>
+                      <Component id="jCheckBox2" alignment="3" min="-2" max="-2" attributes="0"/>
+                      <Component id="jCheckBox1" alignment="3" min="-2" max="-2" attributes="0"/>
+                  </Group>
+                  <EmptySpace type="separate" max="-2" attributes="0"/>
+                  <Component id="jLabel5" min="-2" max="-2" attributes="0"/>
+                  <EmptySpace min="-2" pref="11" max="-2" attributes="0"/>
+                  <Component id="jComboBox1" min="-2" max="-2" attributes="0"/>
+                  <EmptySpace min="-2" pref="55" max="-2" attributes="0"/>
+                  <Component id="jButton1" min="-2" pref="53" max="-2" attributes="0"/>
+                  <EmptySpace pref="64" max="32767" attributes="0"/>
+              </Group>
+          </Group>
+        </DimensionLayout>
+      </Layout>
+      <SubComponents>
+        <Component class="javax.swing.JLabel" name="jLabel1">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Segoe UI" size="18" style="1"/>
+            </Property>
+            <Property name="horizontalAlignment" type="int" value="0"/>
+            <Property name="text" type="java.lang.String" value="Cadastrar Usu&#xe1;rio"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="jLabel2">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="Nome :"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JTextField" name="jTextField1">
+          <Events>
+            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="jTextField1ActionPerformed"/>
+          </Events>
+        </Component>
+        <Component class="javax.swing.JLabel" name="jLabel3">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="Sexo:"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JRadioButton" name="jRadioButton1">
+          <Properties>
+            <Property name="buttonGroup" type="javax.swing.ButtonGroup" editor="org.netbeans.modules.form.RADComponent$ButtonGroupPropertyEditor">
+              <ComponentRef name="buttonGroup1"/>
+            </Property>
+            <Property name="text" type="java.lang.String" value="Masculino"/>
+          </Properties>
+          <Events>
+            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="jRadioButton1ActionPerformed"/>
+          </Events>
+        </Component>
+        <Component class="javax.swing.JRadioButton" name="jRadioButton2">
+          <Properties>
+            <Property name="buttonGroup" type="javax.swing.ButtonGroup" editor="org.netbeans.modules.form.RADComponent$ButtonGroupPropertyEditor">
+              <ComponentRef name="buttonGroup1"/>
+            </Property>
+            <Property name="text" type="java.lang.String" value="Femino"/>
+          </Properties>
+          <Events>
+            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="jRadioButton2ActionPerformed"/>
+          </Events>
+        </Component>
+        <Component class="javax.swing.JRadioButton" name="jRadioButton3">
+          <Properties>
+            <Property name="buttonGroup" type="javax.swing.ButtonGroup" editor="org.netbeans.modules.form.RADComponent$ButtonGroupPropertyEditor">
+              <ComponentRef name="buttonGroup1"/>
+            </Property>
+            <Property name="text" type="java.lang.String" value="Outro"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JCheckBox" name="jCheckBox1">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="Futebol"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JCheckBox" name="jCheckBox2">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="Programa&#xe7;&#xe3;o"/>
+          </Properties>
+          <Events>
+            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="jCheckBox2ActionPerformed"/>
+          </Events>
+        </Component>
+        <Component class="javax.swing.JCheckBox" name="jCheckBox3">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="Filmes"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="jLabel4">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="Hobbies:"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JComboBox" name="jComboBox1">
+          <Properties>
+            <Property name="model" type="javax.swing.ComboBoxModel" editor="org.netbeans.modules.form.editors2.ComboBoxModelEditor">
+              <StringArray count="93">
+                <StringItem index="0" value="Acari"/>
+                <StringItem index="1" value="A&#xe7;u"/>
+                <StringItem index="2" value="&#xc1;gua Nova"/>
+                <StringItem index="3" value="Alexandre Costa"/>
+                <StringItem index="4" value="Alto do Rodrigues"/>
+                <StringItem index="5" value="Alvord&#xe1;"/>
+                <StringItem index="6" value="Angicos"/>
+                <StringItem index="7" value="Apodi"/>
+                <StringItem index="8" value="Areia Branca"/>
+                <StringItem index="9" value="Bara&#xfa;na"/>
+                <StringItem index="10" value="Bento Fernandes"/>
+                <StringItem index="11" value="Bom Jesus"/>
+                <StringItem index="12" value="Caic&#xf3;"/>
+                <StringItem index="13" value="Campo Redondo"/>
+                <StringItem index="14" value="Canguaretama"/>
+                <StringItem index="15" value="Cara&#xfa;bas"/>
+                <StringItem index="16" value="Carna&#xfa;ba dos Dantas"/>
+                <StringItem index="17" value="Carnaubais"/>
+                <StringItem index="18" value="Cear&#xe1;-Mirim"/>
+                <StringItem index="19" value="Coronel Ezequiel"/>
+                <StringItem index="20" value="Coronel Jo&#xe3;o Pessoa"/>
+                <StringItem index="21" value="Currais Novos"/>
+                <StringItem index="22" value="Doutor Severiano"/>
+                <StringItem index="23" value="Encanto"/>
+                <StringItem index="24" value="Equador"/>
+                <StringItem index="25" value="Extremoz"/>
+                <StringItem index="26" value="Fernando Pedroza"/>
+                <StringItem index="27" value="Flor&#xe2;nia"/>
+                <StringItem index="28" value="Francisco Dantas"/>
+                <StringItem index="29" value="Galinhos"/>
+                <StringItem index="30" value="Goianinha"/>
+                <StringItem index="31" value="Governador Dix-sept Rosado"/>
+                <StringItem index="32" value="Grossos"/>
+                <StringItem index="33" value="Ipangua&#xe7;u"/>
+                <StringItem index="34" value="Ita&#xfa;"/>
+                <StringItem index="35" value="Jandu&#xed;s"/>
+                <StringItem index="36" value="Japi"/>
+                <StringItem index="37" value="Jardim de Angicos"/>
+                <StringItem index="38" value="Jardim do Serid&#xf3;"/>
+                <StringItem index="39" value="Jo&#xe3;o C&#xe2;mara"/>
+                <StringItem index="40" value="Jo&#xe3;o Dias"/>
+                <StringItem index="41" value="Jos&#xe9; da Penha"/>
+                <StringItem index="42" value="Lagoa de Pedras"/>
+                <StringItem index="43" value="Lagoa de Velhos"/>
+                <StringItem index="44" value="Lajes"/>
+                <StringItem index="45" value="Lajes Pintadas"/>
+                <StringItem index="46" value="Lucr&#xe9;cia"/>
+                <StringItem index="47" value="Maca&#xed;ba"/>
+                <StringItem index="48" value="Martins"/>
+                <StringItem index="49" value="Maxaranguape"/>
+                <StringItem index="50" value="Monte Alegre"/>
+                <StringItem index="51" value="Montanhas"/>
+                <StringItem index="52" value="Natal"/>
+                <StringItem index="53" value="Nova Cruz"/>
+                <StringItem index="54" value="Parelhas"/>
+                <StringItem index="55" value="Passa e Fica"/>
+                <StringItem index="56" value="Pau dos Ferros"/>
+                <StringItem index="57" value="Pedro Avelino"/>
+                <StringItem index="58" value="Pedro Velho"/>
+                <StringItem index="59" value="Pend&#xea;ncias"/>
+                <StringItem index="60" value="Parnamirim"/>
+                <StringItem index="61" value="Pil&#xf5;es"/>
+                <StringItem index="62" value="Po&#xe7;o Branco"/>
+                <StringItem index="63" value="Porto do Mangue"/>
+                <StringItem index="64" value="Pureza"/>
+                <StringItem index="65" value="Rafael Fernandes"/>
+                <StringItem index="66" value="Riachuelo"/>
+                <StringItem index="67" value="Rio do Fogo"/>
+                <StringItem index="68" value="Rodolfo Fernandes"/>
+                <StringItem index="69" value="Santo Ant&#xf4;nio"/>
+                <StringItem index="70" value="S&#xe3;o Bento do Norte"/>
+                <StringItem index="71" value="S&#xe3;o Bento do Trair&#xed;"/>
+                <StringItem index="72" value="S&#xe3;o Gon&#xe7;alo do Amarante"/>
+                <StringItem index="73" value="S&#xe3;o Jo&#xe3;o do Sabugi"/>
+                <StringItem index="74" value="S&#xe3;o Jos&#xe9; de Mipibu"/>
+                <StringItem index="75" value="S&#xe3;o Miguel"/>
+                <StringItem index="76" value="S&#xe3;o Miguel do Gostoso"/>
+                <StringItem index="77" value="S&#xe3;o Pedro"/>
+                <StringItem index="78" value="S&#xe3;o Rafael"/>
+                <StringItem index="79" value="Serra de S&#xe3;o Bento"/>
+                <StringItem index="80" value="Serra do Mel"/>
+                <StringItem index="81" value="Serrinha"/>
+                <StringItem index="82" value="Taipu"/>
+                <StringItem index="83" value="Tangar&#xe1;"/>
+                <StringItem index="84" value="Tenente Laurentino Cruz"/>
+                <StringItem index="85" value="Tibau"/>
+                <StringItem index="86" value="Tibau do Sul"/>
+                <StringItem index="87" value="Timba&#xfa;ba dos Batistas"/>
+                <StringItem index="88" value="Touros"/>
+                <StringItem index="89" value="Umarizal"/>
+                <StringItem index="90" value="Upanema"/>
+                <StringItem index="91" value="Vera Cruz"/>
+                <StringItem index="92" value="Vi&#xe7;osa"/>
+              </StringArray>
+            </Property>
+          </Properties>
+          <AuxValues>
+            <AuxValue name="JavaCodeGenerator_TypeParameters" type="java.lang.String" value="&lt;String&gt;"/>
+          </AuxValues>
+        </Component>
+        <Component class="javax.swing.JLabel" name="jLabel5">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="Cidade:"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JButton" name="jButton1">
+          <Properties>
+            <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+              <Color blue="66" green="99" red="0" type="rgb"/>
+            </Property>
+            <Property name="text" type="java.lang.String" value="CADASTRAR"/>
+          </Properties>
+        </Component>
+      </SubComponents>
+    </Container>
+  </SubComponents>
+</Form>
